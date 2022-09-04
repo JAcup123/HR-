@@ -1,11 +1,24 @@
 # 恒润实验学校生物标本室介绍
 额？恒润实验学校同学们课余时间搞出来的？
 
-如果你想下载，请下载，网页做的不好，若能帮助改进，感激不尽！
 
 网址（说不定那天就崩了～）：https://hrbiaoben.rth.app/
 
 hi，这里是6月24日
+nice to meet you !
 7天后我们将会迎来的是暑假，我相信我将会在暑假完善这个东西的
+after a week , we will have a long summer holiday , i think we will make this website better during the holiday ! good luck
 
-（预告：AR）
+（预告：AR）这段划掉！！！
+no AR! no AR!
+
+
+
+
+嗨这里是2022，9月4号
+hello world
+
+经历了一个暑假后我们上线了我们的新站点，尽情欣赏！
+afrter the summer holiday , we make our new website . hope enjoy it ~
+
+ins.linyus.cn
