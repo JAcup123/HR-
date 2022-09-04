@@ -21,4 +21,4 @@ hello world
 经历了一个暑假后我们上线了我们的新站点，尽情欣赏！
 afrter the summer holiday , we make our new website . hope enjoy it ~
 
-ins.linyus.cn
+http://ins.linyus.cn
