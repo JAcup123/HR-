@@ -1,5 +1,5 @@
-# 恒润实验学校生物标本室介绍
-额？恒润实验学校同学们课余时间搞出来的？
+# 恒实标本馆信息化建设项目
+
 
 
 网址（说不定那天就崩了～）：https://hrbiaoben.rth.app/
@@ -21,4 +21,4 @@ hello world
 经历了一个暑假后我们上线了我们的新站点，尽情欣赏！
 afrter the summer holiday , we make our new website . hope enjoy it ~
 
-http://ins.linyus.cn
+https://ins.linyus.cn
