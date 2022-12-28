@@ -2,7 +2,7 @@
 
 
 
-网址（说不定那天就崩了～）：https://hrbiaoben.rth.app/
+网址（说不定那天就崩了～）：https://hrbiaoben.rth1.one
 
 hi，这里是6月24日
 nice to meet you !
@@ -21,4 +21,4 @@ hello world
 经历了一个暑假后我们上线了我们的新站点，尽情欣赏！
 afrter the summer holiday , we make our new website . hope enjoy it ~
 
-[https://ins.linyus.cn](http://ins.linyus.cn/)
+[https://ins.linyus.cn](https://ins.linyus.cn/)
